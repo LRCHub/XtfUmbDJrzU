@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "悪人",
+  "base_artist": "神山羊",
+  "createdAt": "2026-02-11T19:49:52.611474Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "「悪人」(「Akunin」)",
+      "artist": "gulu gulu",
+      "has_synced": true,
+      "path": "select/01_「悪人」(「Akunin」)_gulu_gulu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "「悪人」(「Akunin」",
+      "artist": "gulu gulu",
+      "has_synced": true,
+      "path": "select/02_「悪人」(「Akunin」_gulu_gulu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "悪人",
+      "artist": "神山 羊",
+      "has_synced": false,
+      "path": "select/pl_01_悪人_神山_羊.txt"
+    }
+  ]
+}
